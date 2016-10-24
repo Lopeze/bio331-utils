@@ -1,5 +1,7 @@
 # bio331-utils
-Utility functions for Reed College Bio331: Computational Systems Biology.
+Erik Lopez
+
+Utility functions Computational Systems Biology.
 
 ## QuickStart
 
